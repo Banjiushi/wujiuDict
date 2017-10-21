@@ -7,4 +7,5 @@ wujiuDict.py —— 绘制图形界面并使用 main 模块功能来处理数据
 
 setup.py —— 打包文件，但是出错了。等弄好了再修改
 
-
+只依赖 requests，也可以使用 urllib 库来代替 requests 库  
+打包文件依赖 cx-Freeze 库  
